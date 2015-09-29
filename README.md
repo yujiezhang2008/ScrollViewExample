@@ -1,2 +1,2 @@
 # ScrollViewExample
-Using UIScrollView with Auto Layout in iOS9
+Using UIScrollView with auto layout in iOS 9
